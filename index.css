@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small custom styles to match screenshot */
+body {
+  background: #f5f7fb;
+}
+.app-shell {
+  max-width: 1200px;
+  margin: 24px auto;
+  padding: 24px;
+}
+.card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+}
+.small-muted {
+  color: #6b7280;
+}

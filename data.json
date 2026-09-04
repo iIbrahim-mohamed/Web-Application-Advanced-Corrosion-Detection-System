@@ -1,0 +1,555 @@
+[
+  {
+    "filename": "a438874922c3449a9912b3101a562418.jpg",
+    "defectType": "None",
+    "confidence": 86.74,
+    "status": "OK",
+    "date": "2026-04-08 22:04:16"
+  },
+  {
+    "filename": "e38831d06a8b46f5a4ee46af804a438e.jpg",
+    "defectType": "Hole",
+    "confidence": 83.12,
+    "status": "Defect",
+    "date": "2026-04-03 16:27:38"
+  },
+  {
+    "filename": "882655180ecb473a88b66df6fe67d942.jpg",
+    "defectType": "None",
+    "confidence": 89.23,
+    "status": "OK",
+    "date": "2026-04-01 23:22:14"
+  },
+  {
+    "filename": "615bd4346801404a9163bc4d39428fa8.jpg",
+    "defectType": "Scratch",
+    "confidence": 81.62,
+    "status": "Defect",
+    "date": "2026-04-01 23:09:42"
+  },
+  {
+    "filename": "d7fbe027aeb14a0fa272dda82b5705ca.jpg",
+    "defectType": "Hole",
+    "confidence": 90.16,
+    "status": "OK",
+    "date": "2026-04-01 22:45:33"
+  },
+  {
+    "filename": "6abd408ad316494c9350ebeddce1af25.jpg",
+    "defectType": "Scratch",
+    "confidence": 92.31,
+    "status": "OK",
+    "date": "2026-04-01 22:36:26"
+  },
+  {
+    "filename": "69a86951956e45948e30b044ae8f1491.jpg",
+    "defectType": "Hole",
+    "confidence": 83.05,
+    "status": "Defect",
+    "date": "2026-04-01 22:21:03"
+  },
+  {
+    "filename": "b4e37cfbfb564449901ce8be70d16898.jpg",
+    "defectType": "Hole",
+    "confidence": 94.79,
+    "status": "OK",
+    "date": "2026-04-01 21:33:13"
+  },
+  {
+    "filename": "969535b9c9194ea48b26998514aaa6b0.jpg",
+    "defectType": "Hole",
+    "confidence": 82.63,
+    "status": "OK",
+    "date": "2026-04-01 21:30:52"
+  },
+  {
+    "filename": "c05e738684bb409c8f3f247342439a59.jpg",
+    "defectType": "Hole",
+    "confidence": 85.11,
+    "status": "Defect",
+    "date": "2026-04-01 21:25:23"
+  },
+  {
+    "filename": "34d84759c3424add96942232f69338b5.jpg",
+    "defectType": "Hole",
+    "confidence": 89.69,
+    "status": "Defect",
+    "date": "2026-04-01 21:16:33"
+  },
+  {
+    "filename": "98867817fea146d79128a1c2a89b5f20.jpg",
+    "defectType": "None",
+    "confidence": 84.1,
+    "status": "OK",
+    "date": "2026-04-01 21:12:01"
+  },
+  {
+    "filename": "83194385b39e4893b0d574a03c744236.jpg",
+    "defectType": "None",
+    "confidence": 96.02,
+    "status": "Defect",
+    "date": "2026-04-01 21:05:30"
+  },
+  {
+    "filename": "d8d3d18bbffb4de5ae827e839cbfbdc9.jpg",
+    "defectType": "Scratch",
+    "confidence": 92.37,
+    "status": "Defect",
+    "date": "2026-04-01 21:00:08"
+  },
+  {
+    "filename": "a8a5cb12f3064b8b9b3e0023adc08a06.jpg",
+    "defectType": "Scratch",
+    "confidence": 93.81,
+    "status": "Defect",
+    "date": "2026-04-01 20:53:01"
+  },
+  {
+    "filename": "1e694bb5c1164bdca5230398b7bd27dd.png",
+    "defectType": "Discolor",
+    "confidence": 82.14,
+    "status": "OK",
+    "date": "2026-01-19 18:33:50"
+  },
+  {
+    "filename": "38422a45d1ff4cd1aafe5ee47836db69.png",
+    "defectType": "Scratch",
+    "confidence": 82.02,
+    "status": "Defect",
+    "date": "2025-12-31 13:16:21"
+  },
+  {
+    "filename": "b550ac2e8b5e49139e9bb2874350cdd6.png",
+    "defectType": "None",
+    "confidence": 92.32,
+    "status": "Defect",
+    "date": "2025-12-31 13:15:52"
+  },
+  {
+    "filename": "a63a9c3eb0b84597badcb0639331c3ab.png",
+    "defectType": "Scratch",
+    "confidence": 93.06,
+    "status": "Defect",
+    "date": "2025-12-31 13:12:59"
+  },
+  {
+    "filename": "7437328f29b24212b9f520f90dc0c0ab.png",
+    "defectType": "Hole",
+    "confidence": 92.18,
+    "status": "Defect",
+    "date": "2025-12-31 13:12:29"
+  },
+  {
+    "filename": "9405fbea720f47d0bdb7c96cf5cc1ac9.png",
+    "defectType": "None",
+    "confidence": 93.65,
+    "status": "Defect",
+    "date": "2025-12-26 16:10:06"
+  },
+  {
+    "filename": "2034165aad6b44c4a4d9ff8d05d186b3.jpg",
+    "defectType": "Discolor",
+    "confidence": 81.22,
+    "status": "OK",
+    "date": "2025-12-26 16:06:50"
+  },
+  {
+    "filename": "75653d73b6cf4687b9d807f7837daa81.jpg",
+    "defectType": "Scratch",
+    "confidence": 83.92,
+    "status": "OK",
+    "date": "2025-12-26 16:02:08"
+  },
+  {
+    "filename": "63f1c4515f0d4a6d830aa5bf64749f6b.jpg",
+    "defectType": "Scratch",
+    "confidence": 90.14,
+    "status": "Defect",
+    "date": "2025-12-26 15:55:52"
+  },
+  {
+    "filename": "bc8d5aae90cc4f92ad3a0e53b0a4f197.jpg",
+    "defectType": "None",
+    "confidence": 98.61,
+    "status": "Defect",
+    "date": "2025-12-26 15:51:53"
+  },
+  {
+    "filename": "28b4347e307b410f9e72affae24b8e85.jpg",
+    "defectType": "None",
+    "confidence": 94.19,
+    "status": "Defect",
+    "date": "2025-12-26 15:48:48"
+  },
+  {
+    "filename": "7977343576634ae4bfe4dd06bf6a5634.png",
+    "defectType": "None",
+    "confidence": 93.31,
+    "status": "Defect",
+    "date": "2025-12-17 21:35:50"
+  },
+  {
+    "filename": "aa482d18daca4ef1bb289eae25b5e502.png",
+    "defectType": "Hole",
+    "confidence": 98.8,
+    "status": "OK",
+    "date": "2025-12-17 21:35:31"
+  },
+  {
+    "filename": "705bec09d15a4df788feb1bc6c6599ab.png",
+    "defectType": "Hole",
+    "confidence": 88.93,
+    "status": "OK",
+    "date": "2025-12-17 21:33:47"
+  },
+  {
+    "filename": "98741781784e4467ae3d16fa711dc66c.png",
+    "defectType": "Discolor",
+    "confidence": 93.32,
+    "status": "Defect",
+    "date": "2025-12-17 21:33:31"
+  },
+  {
+    "filename": "e97a7ce247714643a8cae1612c48c18b.png",
+    "defectType": "Discolor",
+    "confidence": 87.19,
+    "status": "Defect",
+    "date": "2025-12-17 21:31:25"
+  },
+  {
+    "filename": "d4feb2269d824168abb1af204c57d862.png",
+    "defectType": "None",
+    "confidence": 94.53,
+    "status": "Defect",
+    "date": "2025-12-17 21:29:10"
+  },
+  {
+    "filename": "127b572289114e66938af844e0cbaa45.png",
+    "defectType": "Hole",
+    "confidence": 88.46,
+    "status": "OK",
+    "date": "2025-12-17 21:21:09"
+  },
+  {
+    "filename": "65d896f19a3e4fd3b02f624b6bbb2de0.png",
+    "defectType": "Discolor",
+    "confidence": 90.44,
+    "status": "Defect",
+    "date": "2025-12-17 21:19:00"
+  },
+  {
+    "filename": "84be49942d1748dfa4629abb53211a53.png",
+    "defectType": "None",
+    "confidence": 97.77,
+    "status": "OK",
+    "date": "2025-12-17 21:07:26"
+  },
+  {
+    "filename": "cce4b196e47c4690a4066c0c4cc5e04b.png",
+    "defectType": "Hole",
+    "confidence": 82.56,
+    "status": "OK",
+    "date": "2025-12-17 21:05:20"
+  },
+  {
+    "filename": "443a886ae65e488eb60f2747563af6e6.png",
+    "defectType": "Discolor",
+    "confidence": 82.25,
+    "status": "OK",
+    "date": "2025-12-17 21:01:28"
+  },
+  {
+    "filename": "5eb4d5ba49f8443bbc8aaacfe0c41d70.png",
+    "defectType": "Scratch",
+    "confidence": 81.59,
+    "status": "OK",
+    "date": "2025-12-17 20:56:50"
+  },
+  {
+    "filename": "08cf8563b398451f9b8b8050b5f58ddc.png",
+    "defectType": "None",
+    "confidence": 98.57,
+    "status": "OK",
+    "date": "2025-12-17 20:52:33"
+  },
+  {
+    "filename": "2088b2b77c7b416e90451f10e9786f16.png",
+    "defectType": "Hole",
+    "confidence": 95.79,
+    "status": "Defect",
+    "date": "2025-12-17 20:50:56"
+  },
+  {
+    "filename": "279d5948506a4db3bc91d31833bd63ee.png",
+    "defectType": "None",
+    "confidence": 85.96,
+    "status": "Defect",
+    "date": "2025-12-17 20:50:01"
+  },
+  {
+    "filename": "8c79b6a22372455bae1ee0df60b8eac7.png",
+    "defectType": "Hole",
+    "confidence": 86.04,
+    "status": "OK",
+    "date": "2025-12-17 20:46:21"
+  },
+  {
+    "filename": "3ef265b2838644719583c7a94d9393e5.png",
+    "defectType": "None",
+    "confidence": 92.65,
+    "status": "OK",
+    "date": "2025-12-17 20:39:07"
+  },
+  {
+    "filename": "96cc9b0d865e4709b9a186f899072a85.png",
+    "defectType": "Discolor",
+    "confidence": 81.85,
+    "status": "OK",
+    "date": "2025-12-17 20:25:38"
+  },
+  {
+    "filename": "91f5998d2861430b9c99aae40b614870.png",
+    "defectType": "Scratch",
+    "confidence": 84.38,
+    "status": "Defect",
+    "date": "2025-12-17 20:25:21"
+  },
+  {
+    "filename": "15069ab02efd4869a0c57b53806e7cf0.png",
+    "defectType": "Hole",
+    "confidence": 81.0,
+    "status": "Defect",
+    "date": "2025-12-17 20:09:10"
+  },
+  {
+    "filename": "99925a9790e84db0b9ea920af5b4fc33.png",
+    "defectType": "Scratch",
+    "confidence": 82.37,
+    "status": "Defect",
+    "date": "2025-12-16 20:14:42"
+  },
+  {
+    "filename": "f9620c1351974b9aaf0af334343ef1c7.png",
+    "defectType": "None",
+    "confidence": 91.85,
+    "status": "Defect",
+    "date": "2025-12-16 20:02:49"
+  },
+  {
+    "filename": "022c8d013e4c4757abb67e871d51182e.jpg",
+    "defectType": "Discolor",
+    "confidence": 88.55,
+    "status": "Defect",
+    "date": "2025-12-02 13:39:26"
+  },
+  {
+    "filename": "a3826e23d5064ad885b633d400edfe71.jpg",
+    "defectType": "Hole",
+    "confidence": 92.07,
+    "status": "OK",
+    "date": "2025-12-02 13:07:00"
+  },
+  {
+    "filename": "c15d47629d8e4879b43622f91c2414a0.jpg",
+    "defectType": "Discolor",
+    "confidence": 84.67,
+    "status": "Defect",
+    "date": "2025-12-02 13:02:19"
+  },
+  {
+    "filename": "30822f12c8cf4fa7b1b9d5d6c3cb164d.jpg",
+    "defectType": "None",
+    "confidence": 88.63,
+    "status": "OK",
+    "date": "2025-12-02 13:01:29"
+  },
+  {
+    "filename": "43626fd5c6c846ea94bd16c390b41a4e.jpg",
+    "defectType": "Hole",
+    "confidence": 86.88,
+    "status": "Defect",
+    "date": "2025-12-02 12:59:37"
+  },
+  {
+    "filename": "b241fa9f31b5435699a1ebadb91639a3.png",
+    "defectType": "None",
+    "confidence": 86.86,
+    "status": "OK",
+    "date": "2025-12-02 12:49:46"
+  },
+  {
+    "filename": "53b76a73df11430c96c17057e89b8887.jpg",
+    "defectType": "None",
+    "confidence": 90.09,
+    "status": "Defect",
+    "date": "2025-12-02 12:11:36"
+  },
+  {
+    "filename": "a0b595acb13f4a2ca80d878f21bca01f.jpg",
+    "defectType": "Scratch",
+    "confidence": 83.32,
+    "status": "OK",
+    "date": "2025-11-24 20:38:20"
+  },
+  {
+    "filename": "021a74100a3741859862471889b63ad4.jpg",
+    "defectType": "Discolor",
+    "confidence": 88.35,
+    "status": "OK",
+    "date": "2025-11-24 20:37:09"
+  },
+  {
+    "filename": "931b06e3fc054f1a97a24fcec370624c.jpg",
+    "defectType": "None",
+    "confidence": 93.34,
+    "status": "OK",
+    "date": "2025-11-24 20:28:21"
+  },
+  {
+    "filename": "351666e7ec06485e90d9f01208d04bce.jpg",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-24 20:11:33"
+  },
+  {
+    "filename": "0a7c3402a8b94b97ab0b759d454aa332.jpg",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-24 20:08:20"
+  },
+  {
+    "filename": "d5279a7968024c19bc67419c9f303c1d.jpg",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-24 14:01:56"
+  },
+  {
+    "filename": "c2e6a98b243e4509b95234a976aae073.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-24 14:01:34"
+  },
+  {
+    "filename": "2b599693bd0b426ea60f51a1db04aede.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 22:00:45"
+  },
+  {
+    "filename": "04d2ea6e487643b29bd291a2c860724c.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 21:54:35"
+  },
+  {
+    "filename": "529ce8c57a694d3987d0c539b0aa19d7.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 21:38:01"
+  },
+  {
+    "filename": "a7fba507d06e42058b1ba37d0bddb22b.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 21:33:13"
+  },
+  {
+    "filename": "7faad144061442d79cfcb57b0265efc4.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 21:28:35"
+  },
+  {
+    "filename": "6ca2794ac44e42ddb75d3eaf3a7b619a.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 01:10:42"
+  },
+  {
+    "filename": "f0cbb7cec3fd4747950f0e97ba7c9693.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 01:10:24"
+  },
+  {
+    "filename": "d9d9d3055053465384712f0c9dc4693f.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 01:08:25"
+  },
+  {
+    "filename": "aecf836f860c476d83f987f53ca8ebef.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 01:07:16"
+  },
+  {
+    "filename": "6e8da6b02b0f4f8a8af591c1a1cfa8e5.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 00:55:21"
+  },
+  {
+    "filename": "7862287c17b84504bef26270ed55aa53.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 00:54:47"
+  },
+  {
+    "filename": "dc656503b2014758b775c5dbedbfcf32.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 00:54:28"
+  },
+  {
+    "filename": "df13e3174ccd4eb697c41af95f1c1a7f.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 00:50:10"
+  },
+  {
+    "filename": "72d2f83307e349a6812180000bd5a648.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 00:50:08"
+  },
+  {
+    "filename": "328d8530e1ad4780beabc20032e73253.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 00:49:50"
+  },
+  {
+    "filename": "14e09afc23de4228b67c84ad055de1c4.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 00:44:29"
+  },
+  {
+    "filename": "41836ff836904c66945c33fe8f7e9a87.png",
+    "defectType": "Unknown",
+    "confidence": 0,
+    "status": "Unknown",
+    "date": "2025-11-23 00:28:52"
+  }
+]
